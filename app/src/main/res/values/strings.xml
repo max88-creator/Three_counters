@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThreeCounters</string>
+    <string name="launch">Launch</string>
+    <string name="_0">0</string>
+    <string name="_0second">0</string>
+    <string name="_2">2</string>
+    <string name="stop">Stop</string>
+    <string name="go">go</string>
+</resources>
